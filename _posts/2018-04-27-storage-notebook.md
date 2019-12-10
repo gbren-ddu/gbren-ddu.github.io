@@ -6,6 +6,7 @@ Author: Shengbin
 tags: [存储, 硬件]
 comments: true
 toc: true
+pinned: true
 ---
 
 ***

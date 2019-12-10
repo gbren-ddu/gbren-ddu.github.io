@@ -65,10 +65,10 @@ disqus: gbren-ddu #shortname
 
 # 输入Gitalk相关设定，即可添加评论区
 gitalk:
-  clientID: 
-  clientSecret: 
-  repo: 
-  owner: 
+  clientID: ee2690ff3df46532928f
+  clientSecret: d4336e2a4af7aef42c19122d0663ccfcb7c9508f
+  repo: gbren-ddu.github.io
+  owner: gbren-ddu
 
 # 输入Google Analytics web tracking code
 google_analytics:

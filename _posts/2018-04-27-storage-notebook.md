@@ -116,12 +116,14 @@ end
 ## **DAS、SAN、NAS**
 ### DAS
 - 人们将最原始的存储架构称为DAS Direct（Dedicate）Attached Storage，直接连接存储，意思是指存储设备只用于与独立的一台主机服务器连接，其他主机不能使用这个存储设备。
+
 ### NAS
 - 带有集中式文件系统功能的盘阵，叫做网络附加存储（Network Attached Storage，NAS）。
 - NAS其实就是处于以太网上的一台利用NFS、CIFS等网络文件系统的文件共享服务器
 - NAS必须具备的物理条件如下：
   - 1.不管用什么方式，NAS必须可以访问卷或者物理磁盘。         
   - 2.NAS必须具有接入以太网的能力，也就是必须具备以太网卡。
+
 ### SAN（Storage Area Network，SAN）
 - SAN是一个网络上的磁盘，NAS是一个网络上的文件系统。
 

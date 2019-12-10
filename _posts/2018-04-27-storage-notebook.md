@@ -18,7 +18,6 @@ http://xiaoernote.oss-cn-beijing.aliyuncs.com/%E5%86%AF%E8%AF%BA%E4%BE%9D%E6%9B%
 ***
 ## **存储系统架构演化过程**
 1. 全整合阶段
-
 ```
 graph LR
 subgraph 服务器机箱
@@ -28,7 +27,6 @@ C(("卷(LUN)"))-->|IO总线通信|D["磁盘控制器"]
 D["磁盘控制器"]-->|SCSI总线通信|E((物理磁盘))
 end
 ```
-
 2. 磁盘外置阶段
 ```
 graph LR

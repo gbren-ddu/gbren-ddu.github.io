@@ -9,6 +9,16 @@ name: 任国斌的博客
 # 描述/签名
 description: 好好学习，天天向上
 
+
+# 输入你的网站域名（如果你没有添加自己的域名，而是直接用GitHub pages分配的域名的话可以省略）
+url: 
+
+# 添加你的博客的二级域名，一般来说是你的repository名
+# 如果你的博客的URL是：(http://yourusername.github.io/repository-name)
+# 那么就写成 "/repository-name"
+baseurl: /LOFFER
+
+
 #
 # 下面的设定都是可选的
 #
@@ -58,12 +68,14 @@ footer-links:
 # 站点页脚的文字
 footer-text: Copyright (c) 2019 来自gbren-ddu
 
+#
 # 评论，注意，请不要同时添加多种不同的评论区
+#
 
 # 输入Disqus shortname，即可添加评论区
 disqus: # gbren-ddu #shortname
 
-# 输入Gitalk相关设定，即可添加评论区
+# 输入Gitalk相关设定，即可添加评论区，具体请看教程
 gitalk:
   clientID: ee2690ff3df46532928f
   clientSecret: d4336e2a4af7aef42c19122d0663ccfcb7c9508f
@@ -74,13 +86,12 @@ gitalk:
 google_analytics:
 
 # 输入你的网站域名（如果你没有添加自己的域名，而是直接用GitHub pages分配的域名的话可以省略）
-url: 
+#url: 
 
 # 添加你的博客的二级域名，一般来说是你的repository名
 # 如果你的博客的URL是：(http://yourusername.github.io/repository-name)
 # 那么就写成 "/repository-name"
-baseurl: /
-
+#baseurl: /
 
 #
 # !! 以下所有设置都不需要更改 !!

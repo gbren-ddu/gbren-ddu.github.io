@@ -2,7 +2,7 @@
 layout: post
 title: 大话存储2-读书笔记
 date: 2018-04-27
-Author: Shengbin 
+Author: gbren 
 tags: [存储, 硬件]
 comments: true
 toc: true

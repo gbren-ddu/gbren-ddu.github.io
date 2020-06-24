@@ -306,7 +306,7 @@ spec:
 
  
 
-- kubectl     apply -f jms-core-service.yaml
+- kubectl apply -f jms-core-service.yaml
 
 **jms-core-service.yaml**
 
